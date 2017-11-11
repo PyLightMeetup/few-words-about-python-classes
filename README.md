@@ -1,13 +1,13 @@
 # few-words-about-python-classes
 
-Repozytorium zawiera jupyter-notebook będący wprowadzeniem do klas w Pythonie. 
+Repository contains jupyter-notebook that serves as an introduction to classes in Python.
 
-Aby uruchomić notebook lokalnie, należy sklonować repozytorium, następnie zainstalować zależności z pliku requirements.txt (najlepiej w środowisku wirtualnym)
+To run notebook locally, you need to clone repository and install dependencies from requirements.txt file (it's a good idea to do it inside virtual environment):
 ```
 pip install -r requirements.txt
 ```
 
-Następnie, należy uruchomić notebook za pomocą komendy:
+After installing dependencies, you can run notebook with following command:
 ```
-jupyter notebook o-klasach-w-pythonie-slow-kilka.ipynb
+jupyter notebook few-words-about-python-classes.ipynb
 ```
